@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">simbios</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_http">Http</string>
+</resources>
